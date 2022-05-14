@@ -1,4 +1,4 @@
-"# CoderbyteBeginner" 
+"# CoderbyteBeginner" <br>
 Happy Numbers
 Have the function HappyNumbers(num) determine if a number is Happy, which is a number whose sum of the square of the digits eventually converges to 1. Return true if it's a Happy number, otherwise return false.
 
